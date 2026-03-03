@@ -2,7 +2,7 @@
 
 이 홈페이지는 CoinGecko Public API를 사용하여
 Bitcoin과 Ethereum의 가격을 실시간으로 표시합니다.
-
+홈페이지 주소: https://kimjs1130.github.io/blockchain26-1/
 ### 1️⃣ 초기 실행
 
 웹페이지가 열리면 JavaScript 함수 `fetchPrices()`가 즉시 실행됩니다.
