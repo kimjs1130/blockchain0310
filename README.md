@@ -1,6 +1,16 @@
 # Crypto Price Report
 
-# html 바로가기: https://kimjs1130.github.io/blockchain26-1/
-API Used:
+## What I did
+1. Created GitHub account
+2. Created GitHub Pages homepage
+3. Fetched BTC/ETH prices from CoinGecko
+
+## CoinGecko API
 https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd
 
+## Today's Prices
+
+| Coin | Price (USD) |
+|------|-------------|
+| Bitcoin | 62000 |
+| Ethereum | 3400 |
